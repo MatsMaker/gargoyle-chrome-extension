@@ -1,0 +1,22 @@
+{
+  "name": "worm_tags",
+  "version": "0.0.1",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matsMaker",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "imports-loader": "^0.6.5",
+    "jquery": "git+https://github.com/jquery/jquery.git",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.12"
+  }
+}
